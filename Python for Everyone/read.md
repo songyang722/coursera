@@ -1,2 +1,2 @@
-Programing for Everybody
-Python Data Structures
+- Programing for Everybody
+- Python Data Structures

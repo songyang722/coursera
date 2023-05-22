@@ -9,5 +9,7 @@ Data Analyst: someone who collects, transforms, and organizes data in order to h
 **Ask - Prepare - Process - Analyze - Share - Act**
 
 > If you want to make a few important decisions under uncertainty, that is Statistics.
+
 > If you want to automate, in other words, make many many decisions under uncertainty, that is machine learning and AI.
+
 > If you don't know how much decisions you want to make before you begin, or if what you're looking for is inspiration, or you want to encounter your unknown unknowns. You want to understand your world. That is analytics.

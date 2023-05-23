@@ -22,4 +22,4 @@ Data Science: creating new ways of modeling and understanding the unknown by usi
 
 Data-Driven Decision-Making: using facts to guide business strategy
 
-Gut Instinct sometimes can be a problem.
+Gut Instinct sometimes can be a problem. -> Blending data(facts) with business knowledg(gut instinct).

@@ -1,4 +1,4 @@
-### WEEK1 - Foundations ###
+### WEEK1 ###
 
 Data: a collection of facts or information
 
@@ -22,4 +22,16 @@ Data Science: creating new ways of modeling and understanding the unknown by usi
 
 Data-Driven Decision-Making: using facts to guide business strategy
 
-Gut Instinct sometimes can be a problem. -> Blending data(facts) with business knowledg(gut instinct).
+~~Gut Instinct sometimes can be a problem.~~ Blending data(facts) with business knowledg(gut instinct).
+
+
+
+### WEEK2 ###
+
+Analytical Skills: qualities and characteristics associated with solving problems using facts
+**curiosity, understanding context, having a technical mindset, data design, and data strategy**
+(context is the condition in which something exists or happens
+ a technical mindset is the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+ data design is how you organize information
+ data strategy is the management of the people, processes and tools used in data analysis)
+

@@ -43,3 +43,7 @@ Analytical Thinking: identifying and defining a problem and then solving it by u
 Root Cause: the reason why a problem occurs
  
 Gap Analysis: a method for examining and evaluation how a process works currently in order to get where you want to be in the future
+
+
+
+### WEEK3 ###

@@ -30,15 +30,15 @@ Data-Driven Decision-Making: using facts to guide business strategy
 
 Analytical Skills: qualities and characteristics associated with solving problems using facts
 **curiosity, understanding context, having a technical mindset, data design, and data strategy**
-( - context is the condition in which something exists or happens
+ - context is the condition in which something exists or happens
  - technical mindset is the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
  - data design is how you organize information
- - data strategy is the management of the people, processes and tools used in data analysis)
+ - data strategy is the management of the people, processes and tools used in data analysis
 
 Analytical Thinking: identifying and defining a problem and then solving it by using data in an organized, step-by-step manner
 **visualization, strategy, problem-orientation, correlation, and big-picture and detail-oriented thinking**
-( - visualization is the graphical representation of information
- - correlation does not equal causation)
+ - visualization is the graphical representation of information
+ - correlation does not equal causation
  
 Root Cause: the reason why a problem occurs
  

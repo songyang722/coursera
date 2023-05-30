@@ -7,7 +7,7 @@ Data Analysis: the collection, transformation, and organization of data in order
 Data Analyst: someone who collects, transforms, and organizes data in order to help make informed decisions
 
 **Data Analysis Life Cycle: Ask - Prepare - Process - Analyze - Share - Act**
-
+!(data_analysis_life_cycle.png)
 
 > If you want to make a few important decisions under uncertainty, that is Statistics.
 

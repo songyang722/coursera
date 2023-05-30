@@ -62,3 +62,23 @@ Database: a collection of data stored in a computer system
 Stakeholders: people who have invested time and resources into a project and are interested in the outcome
 - look at the current state and identify how it's different from the ideal state
 - determine who the stakeholders are
+
+**Data analyst tools: spreadsheets, query languages and visualization tools**
+
+the two popular spreadsheets are Microsoft Excel and Google Sheets
+- collect, store, organize, and sort information
+- identify patterns and piece the data together in a way that works for each specific data project
+- create excellent data visualizations, like graphs and charts
+
+Formula: a set of instructions that performs a specific calculation using the data in a spreadsheet
+
+Function: a preset command that automatically performs a specific process or task using the data in a spreadsheet
+
+Query Language: a computer programming language that allows you to retrieve and manipulate data from a database (SQL: structured query language)
+- allow analysts to isolate specific information from a database(s)
+- make it easier for you to learn and understand the requests made to databases
+- allow analysts to select, create, add, or download data from a database for analysis
+
+Data Visualization: the graphical representation of information (Tableau & Looker)
+- turn complex numbers into a story that people can understand
+- help stakeholders come up with conclusions that lead to informed decisions and effective business strategies

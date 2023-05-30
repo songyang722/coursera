@@ -8,6 +8,7 @@ Data Analyst: someone who collects, transforms, and organizes data in order to h
 
 **Data Analysis Life Cycle: Ask - Prepare - Process - Analyze - Share - Act**
 
+
 > If you want to make a few important decisions under uncertainty, that is Statistics.
 
 > If you want to automate, in other words, make many many decisions under uncertainty, that is machine learning and AI.
@@ -47,3 +48,17 @@ Gap Analysis: a method for examining and evaluation how a process works currentl
 
 
 ### WEEK3 ###
+
+**Data Life Cycle: plan, capture, manage, analyze, archive and destroy**
+- Plan: decide what kind of data is needed, how it will be managed, and who will be responsible for it
+- Capture: collect or bring in data from a variety of different sources
+- Manage: care for and maintain the data, including determining how and where it is stored and the tools used to do so
+- Analyze: use the data to solve problems, make decisions, and support business goals
+- Archive: keep relevant data stored for long-term and future reference
+- destroy: remove data from storage and delete any shared copies of the data
+
+Database: a collection of data stored in a computer system
+
+Stakeholders: people who have invested time and resources into a project and are interested in the outcome
+- look at the current state and identify how it's different from the ideal state
+- determine who the stakeholders are

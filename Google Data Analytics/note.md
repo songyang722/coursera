@@ -7,7 +7,7 @@ Data Analysis: the collection, transformation, and organization of data in order
 Data Analyst: someone who collects, transforms, and organizes data in order to help make informed decisions
 
 **Data Analysis Life Cycle: Ask - Prepare - Process - Analyze - Share - Act**
-![image](https://github.com/songyang722/coursera/blob/main/Google%20Data%20Analytics/data_analysis_life_cycle.png)
+![image](https://github.com/songyang722/coursera/blob/main/Google%20Data%20Analytics/data%20analysis%20life%20cycle.png)
 
 > If you want to make a few important decisions under uncertainty, that is Statistics.
 
@@ -82,3 +82,4 @@ Query Language: a computer programming language that allows you to retrieve and 
 Data Visualization: the graphical representation of information (Tableau & Looker)
 - turn complex numbers into a story that people can understand
 - help stakeholders come up with conclusions that lead to informed decisions and effective business strategies
+![image](https://github.com/songyang722/coursera/blob/main/Google%20Data%20Analytics/Spreadsheets%20vs%20Database.png)

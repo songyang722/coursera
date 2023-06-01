@@ -70,7 +70,7 @@ the two popular spreadsheets are Microsoft Excel and Google Sheets
 - identify patterns and piece the data together in a way that works for each specific data project
 - create excellent data visualizations, like graphs and charts
 
-Formula: a set of instructions that performs a specific calculation using the data in a spreadsheet
+Formula: a set of instructions that performs a specific action using the data in a spreadsheet
 
 Function: a preset command that automatically performs a specific process or task using the data in a spreadsheet
 
@@ -83,3 +83,11 @@ Data Visualization: the graphical representation of information (Tableau & Looke
 - turn complex numbers into a story that people can understand
 - help stakeholders come up with conclusions that lead to informed decisions and effective business strategies
 ![image](https://github.com/songyang722/coursera/blob/main/Google%20Data%20Analytics/Spreadsheets%20vs%20Database.png)
+
+
+
+### WEEK4 ###
+
+Attribute: a characteristic or quality of data used to label a column in a table
+
+Observation: all of the attributes for something contained in a row of a data table

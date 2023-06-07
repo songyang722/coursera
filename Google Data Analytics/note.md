@@ -91,3 +91,21 @@ Data Visualization: the graphical representation of information (Tableau & Looke
 Attribute: a characteristic or quality of data used to label a column in a table
 
 Observation: all of the attributes for something contained in a row of a data table
+
+Basic SQL query:
+(AS means aliases, such as "field1 AS name", then you can use "SELECT name" instead of "SELECT field1")
+- SELECT: choose the columns you want to return
+(SELECT * means select all columns)
+- FROM: choose the tables where the columns you want are located
+- WHERE: filter for certain information
+(LIKE in WHERE allows you to tell the database to look for a certain pattern, such as "WHERE field1 LIKE 'CH%')
+(<> means does not equal)
+(comments can be like "/* comments */" or "-- comments")
+
+> A data visualization is the graphical representation of information.
+
+> A pie chart shows how a whole is broken down into parts
+
+
+
+### WEEK5 ###

@@ -116,4 +116,5 @@ Basic SQL query:
 - Data scientist — uses expert skills in technology and social science to find trends through data analysis
 - Data specialist — organizes or converts data for use in databases or software systems
 - Operations analyst — analyzes data to assess the performance of business operations and workflows
+![image](https://github.com/songyang722/coursera/blob/main/Google%20Data%20Analytics/Decoding%20the%20job%20description.png)
 

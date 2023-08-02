@@ -23,8 +23,14 @@ RGB(Red,Green,Blue)
 
 Logic Gates: allow our transistors to do more complex tasks, like decide where to send electrical signals depending on logical conditions
 - NOT
+![image](https://github.com/songyang722/coursera/blob/main/Google%20IT%20Support/The%20NOT%20Gate.png)
 - AND
+![image](https://github.com/songyang722/coursera/blob/main/Google%20IT%20Support/The%20AND%20Gate.png)
 - OR
+![image](https://github.com/songyang722/coursera/blob/main/Google%20IT%20Support/The%20OR%20Gate.png)
 - XOR
+![image](https://github.com/songyang722/coursera/blob/main/Google%20IT%20Support/The%20XOR%20Gate.png)
 - NAND
+![image](https://github.com/songyang722/coursera/blob/main/Google%20IT%20Support/The%20NAND%20Gate.png)
 - XNOR
+![image](https://github.com/songyang722/coursera/blob/main/Google%20IT%20Support/The%20XNOR%20Gate.png)

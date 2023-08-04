@@ -34,3 +34,16 @@ Logic Gates: allow our transistors to do more complex tasks, like decide where t
 ![image](https://github.com/songyang722/coursera/blob/main/Google%20IT%20Support/The%20NAND%20Gate.png)
 - XNOR
 ![image](https://github.com/songyang722/coursera/blob/main/Google%20IT%20Support/The%20XNOR%20Gate.png)
+
+Abstraction: to take a relatively complex system and simplify it for our use
+
+Copmupter Layers
+- hardware: made up of the physical components of a computer
+- operating system: allows hardware to communicate with the system
+- software: how we as humans interact with our computer
+- users: interacts with the computer
+
+
+
+### WEEK2 ###
+

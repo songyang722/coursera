@@ -47,3 +47,12 @@ Copmupter Layers
 
 ### WEEK2 ###
 
+Ports: connection points that we can connect devices to that extend the functionality of our computer
+
+CPU (Central Processing Unit): the brain of computer, it does all the calculations and data processing
+
+RAM (Random Access Memory): computer's short-term memory
+
+Hard Drive: holds all of our data, which includes all of our music, pictures, applications
+
+Motherboard: the body or circulatory system of the computer that connects all the pieces together

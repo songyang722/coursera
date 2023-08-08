@@ -56,3 +56,13 @@ RAM (Random Access Memory): computer's short-term memory
 Hard Drive: holds all of our data, which includes all of our music, pictures, applications
 
 Motherboard: the body or circulatory system of the computer that connects all the pieces together
+
+Programs: instructions that tell the computer what to do
+
+EDB (External Data Bus): a row of wires that interconnect the parts of our computer
+
+MCC (Memory Controller Chip): a bridge between the CPU and the RAM
+
+Cache: smaller that RAM but store data that use often and quickly reference it, there are 3 different cache levels in a CPU: L1, L2, and L3, L1 is the smallest and fastest cache
+
+Clock Speed: the maximum number of clock cycles that it can handle in a certain time period

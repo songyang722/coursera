@@ -50,8 +50,11 @@ Copmupter Layers
 Ports: connection points that we can connect devices to that extend the functionality of our computer
 
 CPU (Central Processing Unit): the brain of computer, it does all the calculations and data processing
+- there are two major types of CPU: LGA (Land Grid Array) and PGA (Pin Grid Array)
+- an LGA socket has pins coming out of the motherboard
+- a PGA socket has pins coming out of the processor itself
 
-RAM (Random Access Memory): computer's short-term memory
+RAM (Random Access Memory): computer's short-term memory (once we power off our machines, the data stored in RAM is cleared)
 
 Hard Drive: holds all of our data, which includes all of our music, pictures, applications
 

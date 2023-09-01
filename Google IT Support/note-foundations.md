@@ -54,11 +54,27 @@ CPU (Central Processing Unit): the brain of computer, it does all the calculatio
 - an LGA socket has pins coming out of the motherboard
 - a PGA socket has pins coming out of the processor itself
 
-RAM (Random Access Memory): computer's short-term memory (once we power off our machines, the data stored in RAM is cleared)
+RAM (Random Access Memory): computer's short-term memory (once we power off our machines, the data stored in RAM is cleared) 
+- the one type of RAM that's commonly found in computers is DRAM (Dynamic Random-Access Memory)
+- there are also different types of memory sticks that DRAM chips can be put on, the more modern DIMM (Dual Inline Memory Module) sticks have different sizes of pins on them
+- in today's system, we use another type of RAM, called DDR or DDR SDRAM (double data rate SDRAM)
 
 Hard Drive: holds all of our data, which includes all of our music, pictures, applications
+- the smallest unit of a data storage is a bit, which can store one binary digit
 
 Motherboard: the body or circulatory system of the computer that connects all the pieces together
+- the chipset is a key component of our motherboard that allows us to manage data between out CPU, RAM, and peripherals
+- Northbridge: chip set that interconnects RAM and video cards
+- Southbridge: chip set that maintains input/output (IO) controllers
+
+Peripherals: external devices we connect to our computer, like a mouse, keyboard, and monitor
+
+Expansion Slots: give us the ability to increase the functionality of our computer
+- the standard for an expansion bus today is the PCI Express (Peripheral Component Interconnect Express)
+- a PCIe bus looks like a slot on the motherboard and a PCIe base expansion card looks like a smallest circuit board
+
+Form Factor: determines the amount we can put in and the amount of space we'll have
+- the most common form factor for matherboards is ATX (Advanced Technology Extended)
 
 Programs: instructions that tell the computer what to do
 

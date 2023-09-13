@@ -60,7 +60,8 @@ RAM (Random Access Memory): computer's short-term memory (once we power off our 
 - in today's system, we use another type of RAM, called DDR or DDR SDRAM (double data rate SDRAM)
 
 Hard Drive: holds all of our data, which includes all of our music, pictures, applications
-- the smallest unit of a data storage is a bit, which can store one binary digit
+- there are two types: HDDs (Hard Describes) more affordable but more prone to damage; SSDs (Solid State Drive) less risky losing data but more expensive
+- RPM (revolution per minute)
 
 Motherboard: the body or circulatory system of the computer that connects all the pieces together
 - the chipset is a key component of our motherboard that allows us to manage data between out CPU, RAM, and peripherals

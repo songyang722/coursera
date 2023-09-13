@@ -51,6 +51,9 @@ Copmupter Layers
 
 ![image](https://github.com/songyang722/coursera/blob/main/Google%20IT%20Support/Binary%20Nomenclature.png) - binary
 
+> MB is megabyte or unit of data storage, while Mb/s is a megabit per second, which is a unit of ata transfer rate.
+> Remember that 1byte is 8 bits, so to transfer a 1MB file in a second, you need an 8 MB/s connection speed.
+
 Ports: connection points that we can connect devices to that extend the functionality of our computer
 
 CPU (Central Processing Unit): the brain of computer, it does all the calculations and data processing
@@ -90,3 +93,20 @@ MCC (Memory Controller Chip): a bridge between the CPU and the RAM
 Cache: smaller that RAM but store data that use often and quickly reference it, there are 3 different cache levels in a CPU: L1, L2, and L3, L1 is the smallest and fastest cache
 
 Clock Speed: the maximum number of clock cycles that it can handle in a certain time period
+
+Power Supplies: power the motherboard
+- DC (Direct Current) or AC (Alternating Current)
+- voltage (same as pressure in water)
+- wattage: the amount of volts and amps that a device needs
+
+System on a Chip (SoC): packs the CPU, RAM, and sometimes even the storage onto a single chip
+
+Peripherals: anything that you connect to your computer externally that adds functionality
+
+DVI cables are generally just output video.
+HDMI has become a standard in lots of televisions and computers nowadays and output both video and audio.
+
+> USB connectors are the most common connector type and they transfer data and power to devices connected to a computer. 
+> Communication connectors, such as RJ-45 and fiber optic cables, connect devices to the internet and one another.
+> IT professionals may encounter legacy devices that use older connectors such as DB89 and Molex.
+> Punch down blocks are terminal strips used to connect telephone or data lines.

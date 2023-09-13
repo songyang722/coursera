@@ -104,6 +104,9 @@ System on a Chip (SoC): packs the CPU, RAM, and sometimes even the storage onto 
 
 Peripherals: anything that you connect to your computer externally that adds functionality
 
+![image](https://github.com/songyang722/coursera/blob/main/Google%20IT%20Support/USB.png) - USB
+![image](https://github.com/songyang722/coursera/blob/main/Google%20IT%20Support/Other%20USB%20Port.png) - other USB port
+
 DVI cables are generally just output video.
 HDMI has become a standard in lots of televisions and computers nowadays and output both video and audio.
 

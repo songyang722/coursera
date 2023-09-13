@@ -2,8 +2,6 @@
 
 Information Technology: the use of digital technology, like computers and the Internet, to store and process data into useful information
 
-Computer: a device that stores and processes data by performing calculations
-
 Algorithm: a series of steps that solve specific problems
 
 Linux: a widely used open source operating system
@@ -69,23 +67,21 @@ RAM (Random Access Memory): computer's short-term memory (once we power off our 
 
 Hard Drive: holds all of our data, which includes all of our music, pictures, applications
 - there are two types: HDDs (Hard Describes) more affordable but more prone to damage; SSDs (Solid State Drive) less risky losing data but more expensive
-- RPM (revolution per minute)
+- RPM (revolution per minute) are characteristics of HDD
 
 Motherboard: the body or circulatory system of the computer that connects all the pieces together
 - the chipset is a key component of our motherboard that allows us to manage data between out CPU, RAM, and peripherals
 - Northbridge: chip set that interconnects RAM and video cards
 - Southbridge: chip set that maintains input/output (IO) controllers
+- the most common form factor for matherboards is ATX (Advanced Technology Extended)
+
+Form Factor: determines the amount we can put in and the amount of space we'll have
 
 Peripherals: external devices we connect to our computer, like a mouse, keyboard, and monitor
 
 Expansion Slots: give us the ability to increase the functionality of our computer
 - the standard for an expansion bus today is the PCI Express (Peripheral Component Interconnect Express)
 - a PCIe bus looks like a slot on the motherboard and a PCIe base expansion card looks like a smallest circuit board
-
-Form Factor: determines the amount we can put in and the amount of space we'll have
-- the most common form factor for matherboards is ATX (Advanced Technology Extended)
-
-Programs: instructions that tell the computer what to do
 
 EDB (External Data Bus): a row of wires that interconnect the parts of our computer
 

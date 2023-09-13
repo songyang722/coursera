@@ -47,6 +47,10 @@ Copmupter Layers
 
 ### WEEK2 ###
 
+![image](https://github.com/songyang722/coursera/blob/main/Google%20IT%20Support/Decimal%20Nomenclature.png)
+
+![image](https://github.com/songyang722/coursera/blob/main/Google%20IT%20Support/Binary%20Nomenclature.png)
+
 Ports: connection points that we can connect devices to that extend the functionality of our computer
 
 CPU (Central Processing Unit): the brain of computer, it does all the calculations and data processing

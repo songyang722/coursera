@@ -18,3 +18,10 @@ Common problem types:
 
 - Finding patterns: using historical data to understand what happened in the past and is therefore likely to happen again
 > Minimizing downtime caused by machine failure is an example of a problem requiring analysts to find patterns in data. For example, by analyzing maintenance data, they might discover that most failures happen if regular maintenance is delayed by more than a 15-day window. 
+
+**Specific Measurable Action-oriented Relevan Time-bound question**
+- Specific questions are simple, significant, and focused on a single topic or a few closely related ideas.
+- Measuralbe questions can be quantified and assessed.
+- Action-oriented questions encourage change.
+- Relevant questions matter, are important and have significance to the problem you're trying to solve.
+- Time-bound questions specify the time to be studied.

@@ -25,3 +25,9 @@ Common problem types:
 - Action-oriented questions encourage change.
 - Relevant questions matter, are important and have significance to the problem you're trying to solve.
 - Time-bound questions specify the time to be studied.
+
+Data-inspired decision-making: explores different data sources to find out what they have in common
+
+Quantitative Data: specific and objective measures of numerical facts (what? how many? how often?)
+Qualitative Data: subjective or explanatory measures of qualities and characteristics (why? how?)
+

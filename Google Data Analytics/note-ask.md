@@ -31,3 +31,8 @@ Data-inspired decision-making: explores different data sources to find out what 
 Quantitative Data: specific and objective measures of numerical facts (what? how many? how often?)
 Qualitative Data: subjective or explanatory measures of qualities and characteristics (why? how?)
 
+Big Data:
+- Volume: the amount of data
+- Variety: the different kinds of data
+- Velocity: how fast the data can be processed
+- Veracity: the quality and reliability of the data
